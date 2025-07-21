@@ -1,2 +1,2 @@
 # README.md
-intial  commit
+Internship for CODSOFT
